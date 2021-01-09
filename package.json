@@ -1,0 +1,26 @@
+{
+  "name": "d3crash",
+  "version": "1.0.0",
+  "description": "D3 textbook run. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrbenjones/d3crash.git"
+  },
+  "keywords": [
+    "learning",
+    "tutorial"
+  ],
+  "author": "Benjamin G. Jones",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/mrbenjones/d3crash/issues"
+  },
+  "homepage": "https://github.com/mrbenjones/d3crash#readme",
+  "dependencies": {
+    "d3": "^6.3.1"
+  }
+}
